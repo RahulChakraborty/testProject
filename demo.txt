@@ -1,1 +1,2 @@
 This is the  first git commit file. Changing the some values.
+Changed values in the git server
